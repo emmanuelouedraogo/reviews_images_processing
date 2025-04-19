@@ -1,0 +1,10 @@
+******** Avancées *********
+
+Visual bag of words
+VGG
+
+
+******** Objectifs 'SMART *******
+
+Calculer l'indice de rand ajusté pour visual bag of words et vgg
+Démarrer le dashboard
